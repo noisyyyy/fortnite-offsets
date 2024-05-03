@@ -1,4 +1,4 @@
-New UWORLD -> 0x126cf528
+uworld -> 0x126cf528
 staticfindobject -> 0x13A8170
 getbonematrix -> 0x1C7FD2C
 
