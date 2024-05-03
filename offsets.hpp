@@ -1,7 +1,6 @@
 uworld -> 0x126cf528
-staticfindobject -> 0x13A8170
-getbonematrix -> 0x1C7FD2C
-
+staticfindobject -> 0x16E11A4
+getbonematrix -> 0x1AE8AF8
 
 // ud sources -> https://discord.gg/2y4ff5wyNX
 
