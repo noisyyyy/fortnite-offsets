@@ -1,4 +1,4 @@
-uworld/gworld -> 0x12634238
+New UWORLD -> 0x126cf528
 staticfindobject -> 0x13A8170
 getbonematrix -> 0x1C7FD2C
 
@@ -9,7 +9,7 @@ getbonematrix -> 0x1C7FD2C
   
 namespace offsets
 {
-uintptr_t UWorld = 0x12634238;
+uintptr_t UWorld = 0x126cf528;
 uintptr_t GNames = 0x127F3180;
 uintptr_t GameState = 0x160;
 uintptr_t OwningGameInstance = 0x1D8;
