@@ -2,7 +2,7 @@ uworld -> 0x126cf528
 staticfindobject -> 0x16E11A4
 getbonematrix -> 0x1AE8AF8
 
-// ud sources here -> https://discord.gg/2y4ff5wyNX
+// ud sources  -> https://discord.gg/2y4ff5wyNX
 
 #include <cstdint>
   
