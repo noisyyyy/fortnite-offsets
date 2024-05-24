@@ -34,7 +34,7 @@ namespace offsets {
 	uintptr_t OverheatValue = 0x1C7C // https://discord.gg/N8Cx9B36
 	uintptr_t WeaponOverheatedAnimation = 0x1C70 // https://discord.gg/N8Cx9B36
 	uintptr_t TargetedFortPawn = 0x18A8 // https://discord.gg/N8Cx9B36
-	uintptr_t BoneArray = 0x5B0 // https://discord.gg/N8Cx9B36
+	uintptr_t BoneArray = 0x5B8 // https://discord.gg/N8Cx9B36 -> this is what fucked up esp
 	uintptr_t BoneCache = 0x5E0 // https://discord.gg/N8Cx9B36
 	uintptr_t ComponentToWorld = 0x1C0 // https://discord.gg/N8Cx9B36
 	uintptr_t LastRenderTimeOnScreen = 0x2F0 // https://discord.gg/N8Cx9B36
