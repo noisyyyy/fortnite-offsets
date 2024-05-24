@@ -1,1 +1,1 @@
-https://discord.gg/2y4ff5wyNX
+always updated offsets and undetected sources here -> https://discord.gg/N8Cx9B36
