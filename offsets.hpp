@@ -14,7 +14,7 @@ namespace offsets {
 	uintptr_t PlayerState = 0x2B0 // https://discord.gg/N8Cx9B36
 	uintptr_t RootComponent = 0x198 // https://discord.gg/N8Cx9B36
 	uintptr_t PersistentLevel = 0x30 // https://discord.gg/N8Cx9B36
-	uintptr_t ReviveFromDBNOTime = 0x4BF8 // https://discord.gg/N8Cx9B36
+	uintptr_t ReviveFromDBNOTime = 0x4C28 // https://discord.gg/N8Cx9B36
 	uintptr_t Mesh = 0x318 // https://discord.gg/N8Cx9B36
 	uintptr_t TeamIndex = 0x1211 // https://discord.gg/N8Cx9B36
 	uintptr_t RelativeLocation = 0x120 // https://discord.gg/N8Cx9B36
