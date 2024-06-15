@@ -4,7 +4,7 @@
 
 namespace offsets {
 
-	uintptr_t UWorld = 0x12BA7050 // https://discord.gg/N8Cx9B36
+	uintptr_t UWorld = 0x129E1DD8 // https://discord.gg/N8Cx9B36
 	uintptr_t GNames = 0x12D85B40 // https://discord.gg/N8Cx9B36
 	uintptr_t GameState = 0x160 // https://discord.gg/N8Cx9B36
 	uintptr_t OwningGameInstance = 0x1D8 // https://discord.gg/N8Cx9B36 
